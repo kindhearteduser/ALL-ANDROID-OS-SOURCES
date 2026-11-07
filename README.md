@@ -128,7 +128,10 @@ Google GSIs
 [@ChonDoit](https://github.com/ChonDoit) GSIs
 - **Pixel Experience Plus** $\rightarrow$ Unofficial Site : https://github.com/ChonDoit/treble_peplus_patches
 - **treble afterlife** $\rightarrow$ Unofficial Site : https://github.com/ChonDoit/treble_afterlife_patches
-
+---
+[@DarkMorpheus-pc](https://github.com/DarkMorpheus-pc) GSIs
+- **aosp vanilla** $\rightarrow$ Unofficial Site : https://github.com/DarkMorpheus-pc/aosp-vanilla-gsi
+---
 ## ☕ Support the Project
 
 If this project helped you save time or unbrick your device, feel free to support my work! Since I don't use traditional banking, I accept donations exclusively through crypto.
@@ -161,7 +164,7 @@ GCgBwcPDfHHrrSdgQs1gVDcv7sMmZR8Pq1qtkN2iN6Vu
 
 
 ---
-*Last Updated: 06.11.2026
+*Last Updated: 07.11.2026
 ---
 ## 🤝 Contributing & Developer Requests
 
