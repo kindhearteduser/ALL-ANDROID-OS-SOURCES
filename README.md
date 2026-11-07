@@ -12,7 +12,7 @@ A comprehensive and verified directory of  sources for all Android Custom ROMs a
 - **CrDroid** $\rightarrow$ Official Site : https://crdroid.net/ - https://github.com/crdroidandroid
 - **RisingOS Revived** $\rightarrow$ Official Site : https://risingos-revived-devices.github.io/ - https://github.com/RisingOS-Revived
 - **GrapheneOS** $\rightarrow$ Official Site : https://grapheneos.org/ - https://github.com/grapheneos
-- **/e/OS** $\rightarrow$ Official Site : https://e.foundation/get-e-os/
+- **/e/OS** $\rightarrow$ Official Site : https://e.foundation/get-e-os/ - https://github.com/e-foundation
 - **Project Infinity X** $\rightarrow$ Official Site : https://projectinfinity-x.com/ - https://github.com/projectinfinity-x
 - **LunarisAOSP** $\rightarrow$ Official Site : https://t.me/lunaris_hub - https://github.com/Lunaris-AOSP
 - **SuperiorOS** $\rightarrow$ Official Site : https://superioros.github.io/ - https://github.com/SuperiorOS
