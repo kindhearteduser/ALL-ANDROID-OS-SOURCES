@@ -1,5 +1,5 @@
 # 📱 ALL-ANDROID-OS-SOURCES $\rightarrow$ [Support Me](https://github.com/kindhearteduser/ALL-ANDROID-OS-SOURCES#-support-the-project)
-A comprehensive and verified directory of official sources for all Android Custom ROMs and GSI images. Dedicated to helping users find safe and official build links
+A comprehensive and verified directory of  sources for all Android Custom ROMs and GSI images. Dedicated to helping users find safe and official build links
 ---
 ## 🛡️ Disclaimer
 **Warning:** Modding your Android device is risky. I provide only the official links. I am not responsible for any bricked devices or lost data.
