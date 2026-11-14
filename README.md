@@ -33,6 +33,7 @@ A comprehensive and verified directory of  sources for all Android Custom ROMs a
 - **Halcyon** $\rightarrow$ Official Site : https://hlcyn.org/ - https://github.com/halcyonproject
 - **YAAP** $\rightarrow$ Official Site : https://yaaprom.org/ - https://github.com/YAAP
 - **CherishOS** $\rightarrow$ Official Site : https://www.cherishos.com/ - https://github.com/CherishOS
+- **Project Blaze** $\rightarrow$ Official Site : https://www.projectblaze.co.in/ - https://github.com/ProjectBlaze/
 ---
 ## 🌐 Official GSI
 Google GSIs
@@ -149,7 +150,7 @@ If this project helped you save time or unbrick your device, feel free to suppor
 
 
 ---
-*Last Updated: 07.11.2026
+*Last Updated: 14.11.2026
 ---
 ## 🤝 Contributing & Developer Requests
 
