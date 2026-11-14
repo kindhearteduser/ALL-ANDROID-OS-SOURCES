@@ -150,7 +150,7 @@ If this project helped you save time or unbrick your device, feel free to suppor
 
 
 ---
-*Last Updated*: 14.11.2026
+**Last Updated** : 14.11.2026
 ---
 ## 🤝 Contributing & Developer Requests
 
